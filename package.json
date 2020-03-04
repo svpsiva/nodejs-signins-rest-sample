@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-signins-rest-sample",
+  "version": "1.0.0",
+  "description": "Sample Graph application to download AAD SignIn logs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svpsiva/nodejs-signins-rest-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svpsiva/nodejs-signins-rest-sample/issues"
+  },
+  "homepage": "https://github.com/svpsiva/nodejs-signins-rest-sample#readme"
+}

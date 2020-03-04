@@ -17,8 +17,6 @@ extensions:
 ## Table Of Contents. ##
 * [Introduction](#introduction)
 
-* [Screenshots](#screenshots)
-
 * [Prerequisites](#prerequisites)
 
 * [Register the app](#Register-the-app)
@@ -38,21 +36,6 @@ This Node.js sample shows how to download AAD sign-in logs from Microsoft Graph.
 - Sign-in to get an access token.
 - Use the access token to download AAD Signin logs, once page at a time.
 
-
-## Screenshots
-<a name="screenshots"></a>
-
-1. First you need sign in.
-
-    ![sign in](https://user-images.githubusercontent.com/3375461/31968683-c373ad30-b8c6-11e7-9d01-413fab9fd6d5.png)
-
-1. Once signing in, the app will listen to the incoming emails.
-
-    ![listening](https://user-images.githubusercontent.com/3375461/31968718-e19696c4-b8c6-11e7-91f2-f1806be0b134.png)
-
-1. After sending the email to the address, you will see the email in the app.
-
-    ![email](https://user-images.githubusercontent.com/3375461/31968754-0ce4dafc-b8c7-11e7-8458-8152d598228e.png)
 
 ## Prerequisites
 <a name="prerequisites"></a>
@@ -119,7 +102,7 @@ You'll use the **application ID** and **secret** to configure the app.
     
 ## Questions and comments
 
-Office 365 development questions? Post them to [Stack Overflow](http://stackoverflow.com/questions/tagged/Office365+API). Make sure to tag your questions or comments with [Office365] and [API].
+Microsoft Graph development questions? Post them to [Stack Overflow](http://stackoverflow.com/questions/tagged/microsoft-graph). Make sure to tag your questions or comments with [Office365] and [API].
 
 ## Additional resources
 
